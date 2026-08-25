@@ -94,8 +94,8 @@ toggle.name = "Switch to system preference"
 
 [project.extra]
 alternate = [
- { name = "Español", link = "/ES/Introduccion", lang = "es" },
- { name = "English", link = "/EN/Introduction", lang = "en" },
+ { name = "Español", link = "ES/Introduccion", lang = "es" },
+ { name = "English", link = "EN/Introduction", lang = "en" },
 ]
 
 # [[project.extra.social]]
