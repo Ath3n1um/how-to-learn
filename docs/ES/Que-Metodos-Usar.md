@@ -15,5 +15,3 @@ Aquí están los métodos por requerimiento:
 | Teoría                                  | Notas Cornell<br>Cuestionabes:<br>- Resaltar con marca texto  <br>- Relectura                                    |
 | Resolución de problemas                 | Practica Intercalada  <br>Ejemplos resueltos                                                                     |
 
-
-# Referencias

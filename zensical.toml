@@ -92,11 +92,11 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 
-# [project.extra]
-# alternate = [
-#  { name = "Español", link = "https://ath3n1um.github.io/how-to-learn/ES/Introduccion/", lang = "es" },
-#  { name = "English", link = "https://ath3n1um.github.io/how-to-learn/EN/Introduction/", lang = "en" },
-# ]
+[project.extra]
+alternate = [
+ { name = "Español", link = "https://ath3n1um.github.io/how-to-learn/ES/Introduccion/", lang = "es" },
+ { name = "English", link = "https://ath3n1um.github.io/how-to-learn/EN/Introduction/", lang = "en" },
+]
 
 # [[project.extra.social]]
 # icon = "fontawesome/brands/github"
