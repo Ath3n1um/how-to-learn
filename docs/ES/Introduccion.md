@@ -6,11 +6,13 @@ Es la etapa inicial del procesamiento de la memoria antes de la consolidación y
 
 ## Consolidación de la memoria  
 La consolidación es un proceso largo que requiere un cambio físico en el cerebro y ocurre después de la codificación, en el cual las memorias se fortalecen ante distintos tipos de interferencia con el paso del tiempo. Este proceso permite la creación de memorias a largo plazo. [^2] [^3]
+
 - Consolidación sináptica: Ocurre en las primeras horas de aprender algo y es la etapa inicial de la consolidación de la memoria. [^4]
 - Consolidación sistémica: Es un proceso largo, ya que tarda años en completarse después del aprendizaje. [^5] Requiere la restructuración de diferentes regiones cerebrales para la formación de memoria de largo plazo. [^6]
 
 ## Olvido
 Es la equivocación al tratar de evocar algo ya aprendido [^7], hay tres teorías principales relacionadas con el aprendizaje:
+
 - Teoría del desvanecimiento: Argumenta que, al aprender, la información deja una marca que, a menos de ser empleada o ejercitada, se atenúa con el tiempo [^8].
 - Teoría de la interferencia: Declara que el olvido es a causa de la interferencia entre lo aprendido y memorias [^9].
 - Olvido dependiente de señales/claves: Sostiene que el olvido ocurre por la ausencia de las señales que estaban presentes cuando se aprendió la información, no porque esta se haya perdido [^10].
@@ -18,12 +20,14 @@ Es la equivocación al tratar de evocar algo ya aprendido [^7], hay tres teoría
 ## Teoría de Carga Cognitiva
 La teoría de carga cognitiva plantea que el proceso de pensar conscientemente consume memoria de trabajo [^11] y presenta a la carga cognitiva como el esfuerzo mental que enfocamos en una actividad [^12]; además, propone que la memoria de trabajo tiene una capacidad limitada de información que puede almacenar [^13].
 Hay tres tipos de carga cognitiva:
+
 - Carga cognitiva intrínseca: Es la complejidad del material que se aprende en relación con el conocimiento del aprendiz.
 - Carga cognitiva extraña: Es causada por el entorno y cómo es presentada la información.
 - Carga cognitiva relevante: Es la que se encarga de la creación de esquemas mentales [^14].
 
 ## Responsible remembering
 Es un marco teórico que propone un sistema que se adapta y prioriza la consolidación de la información con el mayor valor percibido, tomando en cuenta las consecuencias y utilidad de la información, y expone al proceso de la memoria como algo enfocado en relación con qué tan importante es el material aprendido. Tiene 4 procesos principales:
+
 - Metacognitive reflectivity: Darte cuenta de qué información realmente necesitas conservar antes de intentar memorizarla.
 - Responsible forgetting: Favorecer a la información que merece ser recordada a través de filtrar la información menos util 
 - responsible attention: Priorizar el esfuerzo cognitivo hacia información más relevante.
@@ -34,6 +38,7 @@ argumenta que la codificación en la memoria y, por tanto, su posterior retenci�
 
 ## Plasticidad sináptica
 La plasticidad sináptica es lo que permite que una sinapsis cambie su fuerza con el tiempo: se vuelve más fuerte cuando su actividad aumenta y más débil cuando disminuye. Es una capacidad crítica a nivel cerebral y tiene dos tipos:
+
 - Plasticidad sináptica de corto plazo
 - Plasticidad sináptica de largo plazo [^2]
 

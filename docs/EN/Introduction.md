@@ -6,11 +6,13 @@ It is the initial stage of memory processing prior to consolidation and is the p
 
 ## Memory Consolidation
 Consolidation is a lengthy process that requires a physical change in the brain and occurs after encoding, in which memories are strengthened against different types of interference over time. This process enables the creation of long-term memories. [^2] [^3]
+
 - Synaptic consolidation: Occurs within the first few hours of learning something and is the initial stage of memory consolidation. [^4]
 - Systemic consolidation: It is a long-term process, as it takes years to complete after learning. [^5] It requires the restructuring of different brain regions for long-term memory formation. [^6]
 
 ## Forgetting
 It is the failure when attempting to recall something previously learned [^7]. There are three main theories related to learning:
+
 - Decay theory: Argues that, upon learning, information leaves a trace that, unless used or rehearsed, fades over time [^8].
 - Interference theory: Declares that forgetting is caused by interference between newly learned information and existing memories [^9].
 - Cue-dependent forgetting: Posits that forgetting occurs due to the absence of retrieval cues that were present during learning, rather than the information being lost [^10].
@@ -18,12 +20,14 @@ It is the failure when attempting to recall something previously learned [^7]. T
 ## Cognitive Load Theory
 Cognitive load theory posits that the process of conscious thinking consumes working memory [^11] and presents cognitive load as the mental effort focused on an activity [^12]; furthermore, it proposes that working memory has a limited capacity for the amount of information it can hold [^13].
 There are three types of cognitive load:
+
 - Intrinsic cognitive load: The complexity of the material being learned relative to the learner's prior knowledge.
 - Extraneous cognitive load: Caused by the environment and how information is presented.
 - Germane cognitive load: Responsible for the creation of mental schemas [^14].
 
 ## Responsible Remembering
 It is a theoretical framework proposing a system that adapts and prioritizes the consolidation of information with the highest perceived value, taking into account the consequences and utility of the information, and presents the memory process as something targeted based on how important the learned material is. It consists of 4 main processes:
+
 - Metacognitive reflectivity: Becoming aware of what information you truly need to retain before attempting to memorize it.
 - Responsible forgetting: Favoring information that deserves to be remembered by filtering out less useful information.
 - Responsible attention: Prioritizing cognitive effort toward more relevant information.
@@ -34,6 +38,7 @@ Argues that memory encoding and, consequently, subsequent retention depend on th
 
 ## Synaptic Plasticity
 Synaptic plasticity is what allows a synapse to change its strength over time: it grows stronger when its activity increases and weaker when it decreases. It is a critical brain capacity and has two types:
+
 - Short-term synaptic plasticity
 - Long-term synaptic plasticity [^2]
 

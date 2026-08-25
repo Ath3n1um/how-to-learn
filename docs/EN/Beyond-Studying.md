@@ -4,6 +4,7 @@ Now that we have covered actionable techniques, it is time to examine the factor
 ## Physical Factors
 ### Sleep
 Sleep is crucial, as it is highly correlated with attention, executive function, and memory, as well as physical performance; it is also where memory consolidation takes place. You can check how much sleep you need based on your age at this link: [click here](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep#Heading2). For better sleep quality, the basics include:
+
 1. Going to sleep at the same time every day
 2. Waking up without an alarm (if possible)
 3. Getting sunlight exposure shortly after waking up

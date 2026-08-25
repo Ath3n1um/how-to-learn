@@ -4,6 +4,7 @@ Ya concluidas las técnicas accionables, ahora es momento de mencionar los facto
 ## Físico
 ### Sueño
 El sueño es importante, ya está correlacionado en gran medida con la atención, funciones ejecutivas y memoria, además del rendimiento físico, y es donde ocurre la consolidación de la memoria. En este link puedes ver cuánto necesitas dormir dependiendo de tu edad: [click aquí](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep#Heading2), para una mejor calidad de sueño, lo básico sería: 
+
 1. Dormir todos los días a la misma hora
 2. Despertar sin alarmas (si es que te es posible)
 3. Salir a ver la luz del sol apenas despertar
