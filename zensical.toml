@@ -7,8 +7,8 @@ docs_dir = "docs"
 
 # copyright = "Copyright &copy; 2026 Your name"
 
-# repo_url = "https://github.com/Ath3n1um/how-to-learn"
-# repo_name = "user/repo"
+repo_url = "https://github.com/Ath3n1um/how-to-learn"
+repo_name = "Ath3n1um/how-to-learn"
 # edit_uri = "edit/main/docs/"
 
 nav = [
