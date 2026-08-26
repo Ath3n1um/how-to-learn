@@ -1,4 +1,6 @@
 # Técnicas de estudio
+Ya con los anteriores conceptos establecidos, es momento de hablar sobre las técnicas de estudio, los siguientes métodos están ordenados en categorías según su utilidad principal 
+
 ## Entendimiento
 ### Elaboración
 Las estrategias de elaboración se refieren a las diversas formas de conectar los conocimientos previos con lo que se acaba de aprender, hay distintas formas de elaboración, de las cuales destacan:

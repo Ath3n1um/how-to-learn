@@ -42,9 +42,6 @@ Synaptic plasticity is what allows a synapse to change its strength over time: i
 - Short-term synaptic plasticity
 - Long-term synaptic plasticity [^2]
 
-With these concepts established, it is time to discuss study techniques. The following methods are categorized based on their primary utility:
-
-
 # References
 [^1]: https://dictionary.apa.org/encoding
 [^2]: https://www.sciencedirect.com/handbook/handbook-of-behavioral-neuroscience

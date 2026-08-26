@@ -1,6 +1,7 @@
 # how-to-learn
-A Complete guide on how to learn better
-[View the Guide](https://ath3n1um.github.io/how-to-learn/EN/Introduction)
+A Complete guide on how to learn better. [View the Guide](https://ath3n1um.github.io/how-to-learn/EN/Introduction)
+
+![preview](assets/Screenshot-How-to-learn.png)
 
 Made with [zensical](https://zensical.org/)
 

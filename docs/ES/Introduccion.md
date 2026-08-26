@@ -42,8 +42,6 @@ La plasticidad sináptica es lo que permite que una sinapsis cambie su fuerza co
 - Plasticidad sináptica de corto plazo
 - Plasticidad sináptica de largo plazo [^2]
 
-Ya con estos conceptos establecidos, es momento de hablar sobre las técnicas de estudio, los siguientes métodos están ordenados en categorías según su utilidad principal 
-
 [^1]: https://dictionary.apa.org/encoding
 [^2]: https://www.sciencedirect.com/handbook/handbook-of-behavioral-neuroscience
 [^3]: https://www.sciencedirect.com/book/edited-volume/9780123868923/memory-reconsolidation

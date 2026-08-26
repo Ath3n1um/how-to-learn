@@ -1,4 +1,6 @@
 # Study Techniques
+With the previous concepts established, it is time to discuss study techniques. The following methods are categorized based on their primary utility
+
 ## Understanding
 ### Elaboration
 Elaborative strategies refer to the various ways of connecting prior knowledge with newly acquired information. There are different forms of elaboration, key among which are:
