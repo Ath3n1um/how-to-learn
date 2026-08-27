@@ -1,10 +1,29 @@
 # Structure 
-The project is organized in docs/Language/Section.md every section is a single Markdown file where there is only one H1 heading
+The project is organized like this:
+
+```
+|-- assets/                    (global)
+|-- docs/
+|   |-- EN/
+|   |   |-- Assets/ (language dependant)
+|   |   |-- Sections.md
+|   |-- ES/
+|   |   |-- Assets/ 
+|   |   |-- Sections.md
+|-- README.md
+|-- README.es.md
+|-- LICENSE
+|-- CONTRIBUTING.md
+|-- .gitignore
+|-- zensical.toml
+```
+
+every Section.md is a single Markdown file where there is only one H1 heading 
 It's done with [zensical](https://zensical.org/) based on Markdown, the configuration is in zensical.toml 
 
 # Issues 
 Before creating an issue, verify that it has not been closed or opened already
-- Specify: Section, Source (if needed)
+- Specify: Title of the section, Source (if needed)
 
 # Modify or Add/Delete Content 
 

@@ -5,7 +5,7 @@ Desde lo académico a lo laboral se nos ha enseñado que el conocimiento y las h
 Es la etapa inicial del procesamiento de la memoria antes de la consolidación y es el proceso en el que trasladamos lo que percibimos a la memoria. [^1]
 
 ## Consolidación de la memoria  
-La consolidación es un proceso largo que requiere un cambio físico en el cerebro y ocurre después de la codificación, en el cual las memorias se fortalecen ante distintos tipos de interferencia con el paso del tiempo. Este proceso permite la creación de memorias a largo plazo. [^2] [^3]
+La consolidación es un proceso largo que requiere un cambio físico en el cerebro y ocurre después de la codificación, en el cual las memorias se fortalecen ante distintos tipos de interferencia con el paso del tiempo. Este proceso permite la creación de memorias a largo plazo. [^2] [^3] Hay dos tipos de consolidación:
 
 - Consolidación sináptica: Ocurre en las primeras horas de aprender algo y es la etapa inicial de la consolidación de la memoria. [^4]
 - Consolidación sistémica: Es un proceso largo, ya que tarda años en completarse después del aprendizaje. [^5] Requiere la restructuración de diferentes regiones cerebrales para la formación de memoria de largo plazo. [^6]

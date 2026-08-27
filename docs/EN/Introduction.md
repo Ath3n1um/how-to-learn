@@ -5,7 +5,7 @@ From academia to the workplace, we have been taught that knowledge and skills ar
 It is the initial stage of memory processing prior to consolidation and is the process through which we transfer what we perceive into memory. [^1]
 
 ## Memory Consolidation
-Consolidation is a lengthy process that requires a physical change in the brain and occurs after encoding, in which memories are strengthened against different types of interference over time. This process enables the creation of long-term memories. [^2] [^3]
+Consolidation is a lengthy process that requires a physical change in the brain and occurs after encoding, in which memories are strengthened against different types of interference over time. This process enables the creation of long-term memories. [^2] [^3] There's two types of consolidation:
 
 - Synaptic consolidation: Occurs within the first few hours of learning something and is the initial stage of memory consolidation. [^4]
 - Systemic consolidation: It is a long-term process, as it takes years to complete after learning. [^5] It requires the restructuring of different brain regions for long-term memory formation. [^6]
