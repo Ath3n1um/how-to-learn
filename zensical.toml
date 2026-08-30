@@ -2,7 +2,7 @@
 site_url = "https://ath3n1um.github.io/how-to-learn/"
 site_name = "How to learn"
 # site_description = "Your project description"
-site_author = "Your name"
+# site_author = "Your name"
 docs_dir = "docs"
 
 # copyright = "Copyright &copy; 2026 Your name"
