@@ -10,6 +10,12 @@ Consolidation is a lengthy process that requires a physical change in the brain 
 - Synaptic consolidation: Occurs within the first few hours of learning something and is the initial stage of memory consolidation. [^4]
 - Systemic consolidation: It is a long-term process, as it takes years to complete after learning. [^5] It requires the restructuring of different brain regions for long-term memory formation. [^6]
 
+## Synaptic Plasticity
+Synaptic plasticity is what allows a synapse to change its strength over time: it grows stronger when its activity increases and weaker when it decreases. It is a critical brain capacity and has two types:
+
+- Short-term synaptic plasticity
+- Long-term synaptic plasticity [^2]
+
 ## Forgetting
 It is the failure when attempting to recall something previously learned [^7]. There are three main theories related to learning:
 
@@ -25,6 +31,9 @@ There are three types of cognitive load:
 - Extraneous cognitive load: Caused by the environment and how information is presented.
 - Germane cognitive load: Responsible for the creation of mental schemas [^14].
 
+## Levels of Processing Theory
+Argues that memory encoding and, consequently, subsequent retention depend on the depth of cognitive elaboration that information receives, and that deeper encoding improves memory [^16].
+
 ## Responsible Remembering
 It is a theoretical framework proposing a system that adapts and prioritizes the consolidation of information with the highest perceived value, taking into account the consequences and utility of the information, and presents the memory process as something targeted based on how important the learned material is. It consists of 4 main processes:
 
@@ -32,15 +41,6 @@ It is a theoretical framework proposing a system that adapts and prioritizes the
 - Responsible forgetting: Favoring information that deserves to be remembered by filtering out less useful information.
 - Responsible attention: Prioritizing cognitive effort toward more relevant information.
 - Responsible retrieval: Using effective retrieval strategies to recall valuable information [^15].
-
-## Levels of Processing Theory
-Argues that memory encoding and, consequently, subsequent retention depend on the depth of cognitive elaboration that information receives, and that deeper encoding improves memory [^16].
-
-## Synaptic Plasticity
-Synaptic plasticity is what allows a synapse to change its strength over time: it grows stronger when its activity increases and weaker when it decreases. It is a critical brain capacity and has two types:
-
-- Short-term synaptic plasticity
-- Long-term synaptic plasticity [^2]
 
 # References
 [^1]: https://dictionary.apa.org/encoding

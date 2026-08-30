@@ -16,14 +16,14 @@ nav = [
       { "Introduction" = "EN/Introduction.md" },
       { "Techniques" = "EN/Study-Techniques.md" },
       { "Beyond studying" = "EN/Beyond-Studying.md" },
-      { "Which methods to use" = "EN/Which-Methods-Should-I-Use.md" },
+      { "Conclusion" = "EN/Conclusion.md" },
     ]
   },
 { "Español" = [
       { "Introduccion" = "ES/Introduccion.md" },
       { "Tecnicas" = "ES/Tecnicas-de-estudio.md" },
       { "Mas alla del estudio" = "ES/Mas-alla-del-estudio.md" },
-      { "Que metodos usar" = "ES/Que-Metodos-Usar.md" },
+      { "Conclusión" = "ES/Conclusion.md" },
     ]
   },
 
