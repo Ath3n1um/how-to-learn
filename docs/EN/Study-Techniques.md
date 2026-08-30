@@ -57,6 +57,8 @@ Cornell notes involve dividing your page into 3 sections: a left column for keyw
 
 In one study, the Cornell technique improved retention and confidence while reducing cognitive load when learning English [^35], and in another, it improved reading comprehension [^36] and listening skills [^37].
 
+## References
+
 [^17]: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full
 [^18]: https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1049&context=teachinglearning_etds
 [^19]: https://www.researchgate.net/profile/John-Guthrie-4/publication/232434222_Interactions_Among_Elaborative_Interrogation_Knowledge_and_Interest_in_the_Process_of_Constructing_Knowledge_From_Text/links/54aea39a0cf2b48e8ed45504/Interactions-Among-Elaborative-Interrogation-Knowledge-and-Interest-in-the-Process-of-Constructing-Knowledge-From-Text.pdf

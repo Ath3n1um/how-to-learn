@@ -46,6 +46,7 @@ Here are some mind-building methods:
 ### Relational Reasoning Training
 Relational reasoning training is a type of cognitive training based on Relational Frame Theory—a theory stating that language and cognitive abilities are grounded in the capacity to relate stimuli in an arbitrary and derived manner. These tasks are based on 5 relational frames: distinction, comparison, spatial, temporal, and hierarchical [^57]. Multiple studies have shown it can increase IQ and transfer to academic performance [^58]; however, other studies have failed to replicate these results [^59], which may be attributed to methodological limitations and small sample sizes [^60].
 
+## References
 
 [^38]: https://www.nature.com/articles/s41539-021-01031-1
 [^39]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3809922/pdf/PCD-10-E174.pdf

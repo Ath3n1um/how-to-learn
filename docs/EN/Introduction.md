@@ -42,7 +42,8 @@ It is a theoretical framework proposing a system that adapts and prioritizes the
 - Responsible attention: Prioritizing cognitive effort toward more relevant information.
 - Responsible retrieval: Using effective retrieval strategies to recall valuable information [^15].
 
-# References
+## References
+
 [^1]: https://dictionary.apa.org/encoding
 [^2]: https://www.sciencedirect.com/handbook/handbook-of-behavioral-neuroscience
 [^3]: https://www.sciencedirect.com/book/edited-volume/9780123868923/memory-reconsolidation

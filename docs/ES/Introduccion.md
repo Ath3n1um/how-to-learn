@@ -42,6 +42,7 @@ Es un marco teórico que propone un sistema que se adapta y prioriza la consolid
 - responsible attention: Priorizar el esfuerzo cognitivo hacia información más relevante.
 - Responsible retrieval: Usar estrategias de recuperación efectivas para evocar la información valiosa [^15]
 
+## Referencias
 
 [^1]: https://dictionary.apa.org/encoding
 [^2]: https://www.sciencedirect.com/handbook/handbook-of-behavioral-neuroscience

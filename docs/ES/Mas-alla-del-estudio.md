@@ -46,6 +46,7 @@ Estos son algunos métodos para el entrenamiento mental:
 ### Entrenamiento de razonamiento relacional
 El entrenamiento de razonamiento relacional es un tipo de entrenamiento cognitivo que está basado en la teoría de marcos relacionales es una teoría que dicta que la habilidad del lenguaje y la cognición está basada en la capacidad de relacionar estímulos de forma arbitraria y derivada, estos problemas están basados en 5 marcos relacionales: distinción, comparación, espaciales, temporales y jerárquicos [^57] en múltiples estudios ha demostrado lograr subir el CI y transferencia al rendimiento académico [^58] sin embargo en otros estudios no se han logrado replicar los resultados [^59] esto se puede explicar a limitaciones metodológicas y tamaños de muestra reducidas [^60]
 
+## Referencias
 
 [^38]: https://www.nature.com/articles/s41539-021-01031-1
 [^39]: https://pmc.ncbi.nlm.nih.gov/articles/PMC3809922/pdf/PCD-10-E174.pdf

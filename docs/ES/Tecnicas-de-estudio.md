@@ -56,6 +56,7 @@ Las notas Cornell consisten en dividir tu hoja en 3 secciones: una sección a la
 
 En un estudio, la técnica Cornell mejoró la retención y confianza, además de reducir la carga cognitiva al momento de aprender inglés [^35], y en otro mejoró la comprensión lectora [^36] y el listening [^37]
 
+## Referencias
 
 [^17]: https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2021.581216/full
 [^18]: https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1049&context=teachinglearning_etds
