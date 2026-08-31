@@ -36,7 +36,12 @@ Before creating an issue, verify that it has not been closed or opened already
 As the project has the CC-BY-SA 4.0 license, avoid violating copyright when adding/removing or modifying content.
 
 # Building 
-Follow the install instructions based on your device on https://zensical.org/docs/get-started/
+```
+git clone https://github.com/Ath3n1um/how-to-learn.git
+cd how-to-learn
+```
+
+Follow the zensical install instructions based on your device on https://zensical.org/docs/get-started/
 
 ## Preview
 run the command:
