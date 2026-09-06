@@ -2,22 +2,24 @@
 Ya con los anteriores conceptos establecidos, es momento de hablar sobre las técnicas de estudio, los siguientes métodos están ordenados en categorías según su utilidad principal 
 
 ## Entendimiento
+
 ### Elaboración
 Las estrategias de elaboración se refieren a las diversas formas de conectar los conocimientos previos con lo que se acaba de aprender, hay distintas formas de elaboración, de las cuales destacan:
 
 - #### Elaboración interrogativa
-Consiste en preguntar preguntas del estilo: "¿Porqué?". Un metaanálisis encontró un efecto alto en el aprendizaje de ciencias y uno medio para inglés [^1]. Un estudio encontró que la elaboración interrogativa mejoró la comprensión, sin embargo, no tuvo efecto en la retención [^2] y en otro estudio mejoró la retención de textos expositivos [^3].
+Consiste en realizar activamente preguntas del estilo: "¿Porqué?". Un metaanálisis encontró un efecto medio general y un efecto alto en el aprendizaje de ciencias y uno pequeño para inglés [^1]. Un estudio encontró que la elaboración interrogativa mejoraba la comprensión, sin embargo, no tuvo efecto en la retención [^2] y en otro estudio mejoró la retención de textos expositivos [^3].
 
 - #### Auto explicación    
-Consiste en indicar o escribir un concepto con tus propias palabras. Un metaanálisis encontró un efecto moderado en el aprendizaje [^4]. Una revisión sistemática encontró los beneficios en el aprendizaje procedimental y conceptual, los efectos disminuyen conforme aumenta la complejidad de la información y disminuye el conocimiento previo [^5]. Y un metaanálisis encontró un efecto medio para matemáticas y ciencias y uno pequeño para inglés [^1].
+Consiste en explicarte a ti mismo la información que estás aprendiendo. Un metaanálisis encontró un efecto medio en el aprendizaje [^4]. Una revisión sistemática encontró los beneficios en el aprendizaje procedimental y conceptual, los efectos disminuyen conforme aumenta la complejidad de la información y disminuye el conocimiento previo [^5]. Y un metaanálisis encontró un efecto medio para matemáticas y ciencias y uno pequeño para inglés [^1].
 
 ### Ejemplos resueltos
 Los ejemplos resueltos son ejemplos paso a paso de cómo resolver un problema o tarea, trata de aprender de recursos que los utilicen. Un metaanálisis encontró un efecto medio en el aprendizaje de matemáticas [^6] y un estudio encontró que los principiantes se beneficiaban más de combinar los ejemplos con problemas y los estudiantes experimentados se beneficiaban más de solo resolver problemas [^7].
 
 ## Retención 
+
 ### Práctica de recuperación espaciada  
 La práctica de recuperación espaciada consiste en repetir de forma gradualmente más espaciada el intento de evocar información. Para evitar tener que programar las revisiones de forma manual, es recomendable usar herramientas como Anki que integran de forma nativa algoritmos como FSRS que calculan automáticamente los intervalos óptimos de revisión.
-Una revisión sistemática y metaanálisis encontró que la práctica de recuperación espaciada mejoraba la retención y adquisición de conocimiento. [^8] Otro metaanálisis encontró que para matemáticas el efecto en el aprendizaje era bajo a medio [^9].
+Una revisión sistemática y metaanálisis encontró que la práctica de recuperación espaciada mejoraba de forma moderada la retención y adquisición de conocimiento. [^8] Otro metaanálisis encontró que para matemáticas el efecto en el aprendizaje era bajo en matemáticas comparado con la práctica en masa [^9].
 
 ### Práctica intercalada
 Consiste en alternar el tema o tipo de problema durante la sesión de estudio, por ejemplo, en vez de resolver problemas en un orden A-A-A-B-B-B-C-C-C, se resuelven en el orden A-B-C-A-B-C-A-B-C.
@@ -27,10 +29,10 @@ Consiste en alternar el tema o tipo de problema durante la sesión de estudio, p
 | bloques          | A-A-A  <br>B-B-B  <br>C-C-C |
 | intercalada      | A-B-C  <br>A-B-C  <br>A-B-C |
 
-Un metaanálisis encontró que la práctica intercalada es más efectiva cuando los temas o tipos de problema son similares entre sí, con un efecto positivo pequeño en matemáticas y un efecto negativo en el aprendizaje de palabras y textos expositivos [^10]. Un estudio encontró resultados similares en el aprendizaje de matemáticas [^11] y en otro se mejoró la retención y habilidad de resolver problemas de física [^12].
+Un metaanálisis encontró un efecto general medio para la práctica intercalada, también averiguó que es más efectiva cuando los temas o tipos de problema son similares entre sí, con un efecto positivo pequeño en matemáticas y textos expositivos y un efecto negativo en el aprendizaje de palabras [^10]. Un estudio encontró resultados similares en el aprendizaje de matemáticas, donde los estudiantes que fueron testeados 1 día después tuvieron un efecto moderado, mientras que los que fueron testeados 30 días después tuvieron un efecto alto [^11], y en otro se mejoró la retención y habilidad de resolver problemas de física [^12]. 
 
-### Descanso en vigilia
-Consiste, como su nombre lo indica, en descansar mientras estás despierto, cabe aclarar que es diferente a la meditación, ya que no estás tratando de pensar en nada y, en cambio, dejas a tu mente divagar. Una revisión sistemática y metaanálisis encontró un efecto significativo en la consolidación de la memoria y mencionó que los siguientes factores no influyen en el efecto: luz, posición corporal y si los ojos estaban cerrados o abiertos. Sin embargo, el efecto fue mayor en adultos mayores comparado con adultos jóvenes. [^13]
+### Descanso en vigilia 
+Consiste, como su nombre lo indica, en descansar mientras estás despierto, cabe aclarar que es diferente a la meditación, ya que no estás tratando de pensar en nada y, en cambio, dejas a tu mente divagar. Una revisión sistemática y metaanálisis encontró un efecto medio en la consolidación de la memoria y mencionó que los siguientes factores no influyen en el efecto: luz, posición corporal y si los ojos estaban cerrados o abiertos. Sin embargo, el efecto fue mayor en adultos mayores comparado con adultos jóvenes. [^13]
 
 ## Métodos Cuestionables
 
@@ -41,6 +43,7 @@ un meta-análisis encontró que un resaltado generado por el aprendiz mejoraba l
 en un estudio los participantes leyeron una vez, dos veces con una separación de una semana entre la relectura y de manera masiva después y tuvieron una prueba inmediatamente o 2 días después de la sesión de estudio en la prueba inmediata la relectura en masa tuvo mejor rendimiento que leer solo una vez mientras que la lectura distribuida no fue significativamente mejor que leer una vez y en una prueba retrasado el rendimiento para la lectura distribuida fue mejor que leer una vez mientras que el rendimiento para la lectura en masa y leer una vez ya no se diferenciaban significativamente [^15]
 
 ## Toma de notas
+
 ### De que forma
 #### Digital o a Mano
 Puedes escribir de la forma que más te agrade, aunque cabe mencionar que la escritura digital es más rápida y tiene mejor integración con software como Anki, un estudio no encontró diferencias entre la retención factual o conceptual entre laptops, tablets o notas a mano [^16].

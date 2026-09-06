@@ -28,7 +28,7 @@ La teoría de carga cognitiva plantea que el proceso de pensar conscientemente c
 Hay tres tipos de carga cognitiva:
 
 - Carga cognitiva intrínseca: Es la complejidad del material que se aprende en relación con el conocimiento del aprendiz.
-- Carga cognitiva extraña: Es causada por el entorno y cómo es presentada la información.
+- Carga cognitiva extrínseca: Es causada por el entorno y cómo es presentada la información.
 - Carga cognitiva relevante: Es la que se encarga de la creación de esquemas mentales [^14].
 
 ## Teoría de los niveles de procesamiento
