@@ -56,7 +56,9 @@ In a study, voice-based note-taking enabled learners to make more elaborate note
 #### Cornell Notes
 Cornell notes involve dividing your page into 3 sections: a left column for keywords and questions, a bottom section for a summary of your notes in your own words, and a right section for main notes.
 
-![Cornell Notes](assets/images/ENCornellNotes.jpg)
+<div align="center">
+  <img src="assets/images/ENCornellNotes.jpg" alt="Centered Image" width="500">
+</div>
 
 In one study, the Cornell technique improved retention and confidence while reducing cognitive load when learning English [^19], and in another, it improved reading comprehension [^20] and listening skills [^21].
 

@@ -55,7 +55,9 @@ En un estudio, la toma de notas por medio de la voz permitió que los aprendices
 #### Notas Cornell 
 Las notas Cornell consisten en dividir tu hoja en 3 secciones: una sección a la izquierda donde se deben anotar palabras y preguntas clave, y una sección inferior donde se escribe un resumen de tus notas en tus propias palabras y, finalmente, una sección en la parte derecha donde se escriben las notas. 
 
-![Notas Cornell](assets/images/ESCornellNotes.jpg)
+<div align="center">
+  <img src="assets/images/ESCornellNotes.jpg" alt="Centered Image" width="500">
+</div>
 
 En un estudio, la técnica Cornell mejoró la retención y confianza, además de reducir la carga cognitiva al momento de aprender inglés [^19], y en otro mejoró la comprensión lectora [^20] y el listening [^21]
 
